@@ -2,3 +2,11 @@
     margin: 0; 
     padding: 0;
 }
+
+header, .hero, footer {
+    background-color: #1F2937;
+}
+
+.quote_callout {
+    background-color: #E5E7EB
+}
