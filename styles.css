@@ -7,6 +7,17 @@ header, .hero, footer {
     background-color: #1F2937;
 }
 
-.quote_callout {
-    background-color: #E5E7EB
+header {
+    display: flex; 
+    justify-content: space-between; 
+    color: #F9FAF8;
+}
+
+#quote_callout {
+    background-color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
 }
