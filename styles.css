@@ -42,11 +42,28 @@ section {
     height: 300px; 
 }
 
+.hero-left {
+    flex-basis: 1;
+    display: flex; 
+    flex-direction: column;
+    color: #F9FAF8;
+    font-size: 48px; 
+}
+
+.hero-left p {
+    color: #E5E7EB;
+    font-size: 18px; 
+}
+
+.hero-right {
+    flex-basis: 1;
+}
+
 .hero-dog {
     height: auto; 
     width: 80px; 
 }
 
-.quote_callout {
+.quote-callout {
     background-color: #E5E7EB;
 }
